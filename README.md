@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://netflix-clone-82de4.web.app).
 
-## Available Scripts
+## https://netflix-clone-82de4.web.app
 
 In the project directory, you can run:
 
